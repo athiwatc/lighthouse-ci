@@ -27,7 +27,7 @@
     "test:unit": "jest --maxWorkers=2"
   },
   "devDependencies": {
-    "@babel/core": "^7.10.2",
+    "@babel/core": "^8.1.2",
     "@babel/plugin-transform-react-jsx": "^7.10.1",
     "@babel/preset-env": "^7.10.1",
     "@storybook/addon-actions": "^5.3.19",
@@ -74,7 +74,7 @@
     "jest-fetch-mock": "^3.0.3",
     "jest-image-snapshot": "^4.0.2",
     "lerna": "^3.22.0",
-    "mysql2": "^2.1.0",
+    "mysql2": "^3.23.1",
     "parcel-bundler": "^1.12.4",
     "pg": "^8.2.1",
     "pg-hstore": "^2.3.3",
